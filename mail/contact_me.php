@@ -15,7 +15,7 @@ $to = "simone.sottocornola@cern.ch";              // Add your email address inbe
                                                   //- This is where the form will send a message to.
 $subject = "Website Contact Form:  $name";
 $body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email\n\nPhone: $phone\n\nMessage:\n$message";
-$header = "From: simone.sottocornola@cern.ch\n";       // This is the email address the generated message will be from. 
+$header = "From: simonesottocornola@gmail.com\n";       // This is the email address the generated message will be from. 
                                                   //We recommend using something like noreply@yourdomain.com.
 $header .= "Reply-To: $email";	
 
