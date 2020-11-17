@@ -2,4 +2,3 @@ User-agent: *
 Sitemap: https://ssottoco.github.io/sitemap.xml
 Disallow: /mail/
 Disallow: /vendor/
-Disallow: /img/
